@@ -2,7 +2,7 @@
 
 ## 1. Podstawy
 - [x] C# Basics
-- [ ] .NET 6
+- [x] .NET 6
 - [ ] Entity Framework
 - [ ] Dapper
 - [ ] NHibernate
